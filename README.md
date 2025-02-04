@@ -1,21 +1,26 @@
 # Next.js Redux Practice Project  
 
-This is a **Next.js** project where I practiced using **Redux Toolkit** for state management.  
-I implemented a **counter function** and a **basic login system**.
+This is a **Next.js** project for practicing Redux Toolkit. The app includes a counter functionality using Redux and a basic login UI.**.
 
 ## Features  
-- 🔹 **Counter Function**: Implemented using Redux Toolkit (`increment` and `decrement`).  
-- 🔹 **Login System**: Basic authentication functionality (not fully implemented).  
-- 🔹 **React-Redux Integration**: Used `useDispatch` and `useSelector` for state management.  
+✅ Counter with Redux Toolkit
+Increment and decrement values using Redux state management.
+✅ Basic Login Page
+Simple login UI (no authentication yet).
+✅ State Management with Redux
+Uses Redux Toolkit (@reduxjs/toolkit) and React-Redux.
 
 ## Technologies Used  
 - **Next.js**  
 - **Redux Toolkit**  
 - **React-Redux**  
-- **Tailwind CSS** (for styling)  
+- **Tailwind CSS** 
 
 ## Installation & Setup  
 
 1️⃣ **Clone the repository**  
 ```bash
 git clone your-repo-link.git
+npm install
+npm run dev
+Your app will be running at http://localhost:3000 🚀
