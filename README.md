@@ -11,10 +11,10 @@ Simple login UI (no authentication yet).
 Uses Redux Toolkit (@reduxjs/toolkit) and React-Redux.
 
 ## Technologies Used  
-- **Next.js**  
-- **Redux Toolkit**  
-- **React-Redux**  
-- **Tailwind CSS** 
+- ** Next.js**  
+- ** Redux Toolkit**  
+- ** React-Redux**  
+- ** Tailwind CSS** 
 
 ## Installation & Setup  
 
