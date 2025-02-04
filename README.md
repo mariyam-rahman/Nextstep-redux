@@ -11,16 +11,17 @@ Simple login UI (no authentication yet).
 Uses Redux Toolkit (@reduxjs/toolkit) and React-Redux.
 
 ## Technologies Used  
--  Next.js**  
-- Redux Toolkit**  
--  React-Redux**  
--  Tailwind CSS** 
+-  Next.js 
+- Redux Toolkit
+-  React-Redux 
+-  Tailwind CSS
 
 ## Installation & Setup  
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone your-repo-link.git
+git clone https://github.com/your-username/next-step-redux.git
+cd next-step-redux
 npm install
 npm run dev
-Your app will be running at http://localhost:3000 🚀
+App will be running at http://localhost:3000 🚀
