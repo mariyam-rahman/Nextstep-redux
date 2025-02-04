@@ -3,11 +3,11 @@
 This is a **Next.js** project for practicing Redux Toolkit. The app includes a counter functionality using Redux and a basic login UI.**.
 
 ## Features  
-✅ Counter with Redux Toolkit
+- ** Counter with Redux Toolkit
 Increment and decrement values using Redux state management.
-✅ Basic Login Page
+- **Basic Login Page
 Simple login UI (no authentication yet).
-✅ State Management with Redux
+- ** State Management with Redux
 Uses Redux Toolkit (@reduxjs/toolkit) and React-Redux.
 
 ## Technologies Used  
